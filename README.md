@@ -13,11 +13,11 @@ applications.
 
 ## About Me
 
-- 🎓 BSc (Hons) Computer Science — Brunel University London
-- 🐍 Strong Python programming and debugging experience
-- 💻 Background in software development and automation
-- 🧠 Exploring AI Engineering, Machine Learning, and AI Security
-- 🔬 Interested in model evaluation, robustness, and reliability
+- BSc (Hons) Computer Science — Brunel University London
+- Strong Python programming and debugging experience
+- Background in software development and automation
+- Exploring AI Engineering, Machine Learning, and AI Security
+- Interested in model evaluation, robustness, and reliability
 
 ## Technical Skills
 
